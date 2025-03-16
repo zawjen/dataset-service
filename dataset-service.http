@@ -1,0 +1,42 @@
+### Create Dataset
+POST http://localhost:3000/datasets
+Content-Type: application/json
+
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "name": "Sample Dataset 1",
+  "description": "This is a sample dataset containing customer information",
+  "tags": ["customers", "sales", "demographics"],
+  "status": "active",
+  "date_created": "2023-08-15T08:30:00Z",
+  "created_by": "john.doe@example.com",
+  "date_modified": "2023-08-16T14:20:00Z", 
+  "modified_by": "jane.smith@example.com"
+}
+
+###
+
+### Get All Datasets
+GET http://localhost:3000/datasets
+
+###
+
+### Get One Dataset by ID
+GET http://localhost:3000/datasets/d290f1ee-6c54-4b01-90e6-d701748f0851
+
+###
+
+### Update Dataset by ID
+PUT http://localhost:3000/datasets/d290f1ee-6c54-4b01-90e6-d701748f0851
+Content-Type: application/json
+
+{
+  "name": "Updated Dataset",
+  "status": "inactive",
+  "modified_by": "admin@example.com"
+}
+
+###
+
+### Delete Dataset by ID
+DELETE http://localhost:3000/datasets/d290f1ee-6c54-4b01-90e6-d701748f0851

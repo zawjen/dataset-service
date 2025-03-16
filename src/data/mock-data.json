@@ -1,0 +1,272 @@
+[
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+        "name": "AnalyzeQuran",
+        "description": "A comprehensive analysis tool for the Quran.",
+        "tags": [
+            "Quran",
+            "analysis",
+            "tool"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0852",
+        "name": "equranlibrary",
+        "description": "A digital library for Quranic texts and resources.",
+        "tags": [
+            "Quran",
+            "Hadith",
+            "Tafseer"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0854",
+        "name": "Kitab Al-‘Ayn",
+        "description": "An early Arabic dictionary by Al-Khalil ibn Ahmad Al-Farahidi (d. 170 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Kitab Al-‘Ayn"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0855",
+        "name": "Al-Jamhara fi Al-Lugha",
+        "description": "A comprehensive dictionary by Ibn Duraid (d. 321 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Al-Jamhara"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0856",
+        "name": "As-Sihah fi Al-Lugha",
+        "description": "An influential Arabic dictionary by Al-Jawhari (d. 393 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "As-Sihah"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0857",
+        "name": "Lisan Al-Arab",
+        "description": "The most extensive Arabic dictionary compiled by Ibn Manzur (d. 711 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Lisan Al-Arab"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0858",
+        "name": "Al-Qamus Al-Muhit",
+        "description": "A widely recognized Arabic dictionary by Al-Firuzabadi (d. 817 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Al-Qamus"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0859",
+        "name": "Taj Al-Arus",
+        "description": "An expanded commentary on Arabic lexicons by Al-Zabidi (d. 1205 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Taj Al-Arus"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0860",
+        "name": "Mu’jam Maqayis Al-Lugha",
+        "description": "A dictionary detailing Arabic word roots by Ibn Faris (d. 395 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Mu’jam"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0861",
+        "name": "Al-Muhkam wa Al-Muhit Al-A’zam",
+        "description": "A comprehensive Arabic dictionary by Ibn Sida (d. 458 AH).",
+        "tags": [
+            "Arabic",
+            "dictionary",
+            "Al-Muhkam"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0862",
+        "name": "Al-Tarikh Al-Kabir",
+        "description": "A seminal work on the biographies of Hadith narrators by Imam Al-Bukhari (d. 256 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "biography",
+            "Al-Tarikh"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0863",
+        "name": "Al-Jarh wa Al-Ta’dil",
+        "description": "A critical work on narrator evaluation by Imam Ibn Abi Hatim Al-Razi (d. 327 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "criticism",
+            "Al-Jarh"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0864",
+        "name": "Al-Kamil fi Du’afa’ Al-Rijal",
+        "description": "A detailed collection of weak narrators compiled by Imam Ibn ‘Adi (d. 365 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "collection",
+            "Al-Kamil"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0865",
+        "name": "Mizan Al-I’tidal",
+        "description": "A balanced evaluation of Hadith narrators by Imam Al-Dhahabi (d. 748 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "evaluation",
+            "Mizan"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0866",
+        "name": "Tahdhib Al-Kamal",
+        "description": "A work focused on perfecting the biographies of Hadith narrators by Imam Al-Mizzi (d. 742 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "biography",
+            "Tahdhib"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0867",
+        "name": "Tahdhib Al-Tahdhib",
+        "description": "An extensive critique and refinement of narrators by Imam Ibn Hajar Al-Asqalani (d. 852 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "critique",
+            "Tahdhib"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0868",
+        "name": "Taqrib Al-Tahdhib",
+        "description": "A concise summary of narrator evaluations by Imam Ibn Hajar Al-Asqalani (d. 852 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "summary",
+            "Taqrib"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    },
+    {
+        "id": "d290f1ee-6c54-4b01-90e6-d701748f0869",
+        "name": "Siyar A’lam Al-Nubala",
+        "description": "Biographical accounts of prominent figures in Hadith narrated by Imam Al-Dhahabi (d. 748 AH).",
+        "tags": [
+            "Isma ur Rijal",
+            "biography",
+            "Siyar"
+        ],
+        "status": "active",
+        "date_created": "2023-08-15T08:30:00Z",
+        "created_by": "john.doe@example.com",
+        "date_modified": "2023-08-16T14:20:00Z",
+        "modified_by": "jane.smith@example.com"
+    }
+]
